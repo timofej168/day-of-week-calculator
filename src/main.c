@@ -20,18 +20,18 @@ static const char* const DAYS_OF_WEEK[2][7] = {
 
 // Индексируемые перечислением Language строки интерфейса
 static const char* const PROMT_MSG[] = {
-    [LANG_RU] = {"Введите дату в формате дд.мм.гггг (от 01.01.0001 до 31.12.9999): "},
-    [LANG_EN] = {"Enter the date in dd.mm.yyyy format (from 01.01.0001 to 31.12.9999): "}
+    [LANG_RU] = "Введите дату в формате дд.мм.гггг (от 01.01.0001 до 31.12.9999): ",
+    [LANG_EN] = "Enter the date in dd.mm.yyyy format (from 01.01.0001 to 31.12.9999): "
 };
 
 static const char* const INPUT_ERROR_MSG[] = {
-    [LANG_RU] = {"Ошибка: данные введены некорректно.\n"},
-    [LANG_EN] = {"Error: data entered incorrectly.\n"}
+    [LANG_RU] = "Ошибка: данные введены некорректно.\n",
+    [LANG_EN] = "Error: data entered incorrectly.\n"
 };
 
 static const char* const INVALID_DATE_MSG[] = {
-    [LANG_RU] = {"Введена несуществующая дата или год не попадает в диапазон [1-9999], перезапустите программу.\n"},
-    [LANG_EN] = {"An invalid date was entered, or the year is outside the [1-9999] range; please restart the program.\n"}
+    [LANG_RU] = "Введена несуществующая дата или год не попадает в диапазон [1-9999], перезапустите программу.\n",
+    [LANG_EN] = "An invalid date was entered, or the year is outside the [1-9999] range; please restart the program.\n"
 };
 
 static inline bool is_leap_year(const int year) {
