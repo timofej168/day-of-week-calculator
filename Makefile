@@ -1,5 +1,5 @@
 CC = gcc
-CFLAGS = -Wall -Wextra -O2
+CFLAGS = -Wall -Wextra -Werror -O2
 TARGET = day_calculator
 SRC = src/main.c
 
