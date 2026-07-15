@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://github.com">
-    <img src="https://github.com/badge.svg" alt="C/C++ CI Status">
-  </a>
-</p>
+[![C/C++ CI](https://github.com)](https://github.com)
 
 # Day of Week Calculator (Doomsday Rule)
 
