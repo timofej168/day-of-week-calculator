@@ -37,7 +37,7 @@ day-of-week-calculator/
 Скомпилируйте проект командой:
 
 <pre>
-gcc -Wall -Wextra -O2 src/main.c -o day_calculator
+make
 </pre>
 
 ### Запуск на Linux / macOS
