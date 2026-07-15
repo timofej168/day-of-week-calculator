@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com">
+    <img src="https://github.com/badge.svg" alt="C/C++ CI Status">
+  </a>
+</p>
+
 # Day of Week Calculator (Doomsday Rule)
 
 Консольная утилита на чистом C для быстрого и безопасного определения дня недели по любой дате в диапазоне от **01.01.0001** до **31.12.9999**.
