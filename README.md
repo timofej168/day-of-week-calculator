@@ -1,4 +1,4 @@
-[![C/C++ CI](https://github.com)](https://github.com)
+[![C/C++ CI](https://github.com/timofej168/day-of-week-calculator/actions/workflows/c-build.yml/badge.svg)](https://github.com/timofej168/day-of-week-calculator/actions/workflows/c-build.yml)
 
 # Day of Week Calculator (Doomsday Rule)
 
